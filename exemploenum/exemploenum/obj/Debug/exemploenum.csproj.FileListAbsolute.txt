@@ -1,0 +1,7 @@
+C:\Users\Lucas Rodrigues\temp\csharpintermediario\exemploenum\exemploenum\obj\Debug\exemploenum.csproj.AssemblyReference.cache
+C:\Users\Lucas Rodrigues\temp\csharpintermediario\exemploenum\exemploenum\obj\Debug\exemploenum.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Rodrigues\temp\csharpintermediario\exemploenum\exemploenum\bin\Debug\exemploenum.exe.config
+C:\Users\Lucas Rodrigues\temp\csharpintermediario\exemploenum\exemploenum\bin\Debug\exemploenum.exe
+C:\Users\Lucas Rodrigues\temp\csharpintermediario\exemploenum\exemploenum\bin\Debug\exemploenum.pdb
+C:\Users\Lucas Rodrigues\temp\csharpintermediario\exemploenum\exemploenum\obj\Debug\exemploenum.exe
+C:\Users\Lucas Rodrigues\temp\csharpintermediario\exemploenum\exemploenum\obj\Debug\exemploenum.pdb

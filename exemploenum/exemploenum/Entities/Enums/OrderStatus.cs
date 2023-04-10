@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace exemploenum.Entities.Enums
 {
-    class OrderStatus
+    enum OrderStatus: int
     {
+        PendingPayment = 8,
+        Processing = 1,
+        Shipped = 2,
+        Delivered = 3
+
     }
 }
