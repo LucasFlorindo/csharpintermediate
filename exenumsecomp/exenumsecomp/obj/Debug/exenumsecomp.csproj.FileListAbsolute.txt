@@ -1,0 +1,7 @@
+C:\Users\Lucas Rodrigues\temp\csharpintermediario\exenumsecomp\exenumsecomp\bin\Debug\exenumsecomp.exe.config
+C:\Users\Lucas Rodrigues\temp\csharpintermediario\exenumsecomp\exenumsecomp\bin\Debug\exenumsecomp.exe
+C:\Users\Lucas Rodrigues\temp\csharpintermediario\exenumsecomp\exenumsecomp\bin\Debug\exenumsecomp.pdb
+C:\Users\Lucas Rodrigues\temp\csharpintermediario\exenumsecomp\exenumsecomp\obj\Debug\exenumsecomp.csproj.AssemblyReference.cache
+C:\Users\Lucas Rodrigues\temp\csharpintermediario\exenumsecomp\exenumsecomp\obj\Debug\exenumsecomp.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Rodrigues\temp\csharpintermediario\exenumsecomp\exenumsecomp\obj\Debug\exenumsecomp.exe
+C:\Users\Lucas Rodrigues\temp\csharpintermediario\exenumsecomp\exenumsecomp\obj\Debug\exenumsecomp.pdb
