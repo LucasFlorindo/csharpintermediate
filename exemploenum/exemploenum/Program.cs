@@ -3,8 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using exemploenum.Entities.Enums;
 using exemploenum.Entities;
+using exemploenum.Entities.Enums;
 
 
 namespace exemploenum
@@ -28,7 +28,11 @@ namespace exemploenum
 
 
             string txt = OrderStatus.PendingPayment.ToString();
-            
+            OrderStatus os = Enum.Parse<OrderStatus>("Delivered");
+
+            Console.WriteLine(txt);
+
+
 
         }
     }
