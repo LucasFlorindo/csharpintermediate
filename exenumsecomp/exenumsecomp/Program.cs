@@ -52,7 +52,7 @@ namespace exenumsecomp
             }
 
             Console.WriteLine();
-            Console.WriteLine("Enter month and year to calculate worker's income (MM/YYYY): ");
+            Console.Write("Enter month and year to calculate worker's income (MM/YYYY): ");
             string monthAndYear = Console.ReadLine();
             int month = int.Parse(monthAndYear.Substring(0, 2));
 

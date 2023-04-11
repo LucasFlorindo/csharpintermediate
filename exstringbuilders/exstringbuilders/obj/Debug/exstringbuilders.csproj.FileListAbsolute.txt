@@ -1,0 +1,7 @@
+C:\Users\Lucas Rodrigues\temp\csharpintermediario\exstringbuilders\exstringbuilders\bin\Debug\exstringbuilders.exe.config
+C:\Users\Lucas Rodrigues\temp\csharpintermediario\exstringbuilders\exstringbuilders\bin\Debug\exstringbuilders.exe
+C:\Users\Lucas Rodrigues\temp\csharpintermediario\exstringbuilders\exstringbuilders\bin\Debug\exstringbuilders.pdb
+C:\Users\Lucas Rodrigues\temp\csharpintermediario\exstringbuilders\exstringbuilders\obj\Debug\exstringbuilders.csproj.AssemblyReference.cache
+C:\Users\Lucas Rodrigues\temp\csharpintermediario\exstringbuilders\exstringbuilders\obj\Debug\exstringbuilders.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Rodrigues\temp\csharpintermediario\exstringbuilders\exstringbuilders\obj\Debug\exstringbuilders.exe
+C:\Users\Lucas Rodrigues\temp\csharpintermediario\exstringbuilders\exstringbuilders\obj\Debug\exstringbuilders.pdb
